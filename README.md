@@ -86,7 +86,7 @@ Recommendation: Encourage multi-item purchases using free shipping thresholds an
 
 ## Detailed Analysis Report
 
-For in-depth methodology, SQL logic, insights, and recommendations, see the attached documentation:
+For in-depth methodology, SQL logic, insights, and recommendations, see the attached documentation or PDF file provided above:
 
 - [Segmentation_Report.docx](https://docs.google.com/document/d/1vzuOX72GmYidHZQ36gwCPaflaa-RSb3FPOyTlQHCY8U/edit?tab=t.0)
 
