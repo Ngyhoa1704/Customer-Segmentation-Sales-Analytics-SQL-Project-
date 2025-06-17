@@ -88,7 +88,7 @@ Recommendation: Encourage multi-item purchases using free shipping thresholds an
 
 For in-depth methodology, SQL logic, insights, and recommendations, see the attached documentation:
 
-- [📘 Segmentation_Report.docx](https://docs.google.com/document/d/1vzuOX72GmYidHZQ36gwCPaflaa-RSb3FPOyTlQHCY8U/edit?tab=t.0)
+- [Segmentation_Report.docx](https://docs.google.com/document/d/1vzuOX72GmYidHZQ36gwCPaflaa-RSb3FPOyTlQHCY8U/edit?tab=t.0)
 
 
 
