@@ -3,7 +3,7 @@ Customer Segmentation & Sales Analytics (SQL Project)
 
 This project analyzes transactional data from Tiffany – TTP store to segment customers based on spending behavior and generate targeted business recommendations. The entire analysis is conducted using SQL.
 
----
+
 
 ## 1. Dataset Overview
 
@@ -18,7 +18,7 @@ The dataset contains detailed transaction data, with the following columns:
 - `Sales Qty`: Quantity of items sold (positive = purchase, negative = return)  
 - `Sales Amt`: Transaction value in VND (negative = return)
 
----
+
 
 ## 2. Project Steps
 
@@ -48,7 +48,7 @@ For each segment, the following KPIs are calculated:
 
 Segments are processed individually with filter conditions and then combined using `UNION ALL`.
 
----
+
 
 ## 3. Top Products & Customers
 
@@ -58,7 +58,7 @@ Segments are processed individually with filter conditions and then combined usi
 Key insight:  
 High-spending customers tend to purchase fewer items (often just one per transaction), while volume buyers contribute less in overall value.
 
----
+
 
 ## 4. Strategic Recommendations by Segment
 
@@ -74,7 +74,7 @@ Recommendation: Offer bundle deals, in-cart cross-sell prompts, and loyalty rewa
 This group has the highest number of customers but the lowest spending and UPT.  
 Recommendation: Encourage multi-item purchases using free shipping thresholds and affordable product suggestions during checkout.
 
----
+
 
 ## Tools Used
 
@@ -82,7 +82,7 @@ Recommendation: Encourage multi-item purchases using free shipping thresholds an
 - SQL: Aggregation, Subqueries, Grouping, Filtering  
 - Logical segmentation and business insight generation
 
----
+
 
 ## Detailed Analysis Report
 
@@ -90,7 +90,7 @@ For in-depth methodology, SQL logic, insights, and recommendations, see the atta
 
 - [📘 Segmentation_Report.docx](https://docs.google.com/document/d/1vzuOX72GmYidHZQ36gwCPaflaa-RSb3FPOyTlQHCY8U/edit?tab=t.0) *(or PDF equivalent if available)*
 
----
+
 
 ## Key Takeaways
 
